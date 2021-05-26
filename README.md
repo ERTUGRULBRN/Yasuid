@@ -1,0 +1,2 @@
+# Yasuid
+Yazılım Yönetim Sistemleri
